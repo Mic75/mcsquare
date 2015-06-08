@@ -2,3 +2,5 @@ nbproject/
 client_data/
 release/
 js/jquery*
+_site/*
+css/*
