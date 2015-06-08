@@ -1,3 +1,6 @@
+---
+layout: null
+---
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -15,7 +18,7 @@ body {
 
 #mcs-div {
   margin: 20px 20px 20px 20px;
-  background-image: url("../assets/textures/backgroundImage.jpg");
+  background-image: url("{{site.baseurl}}/assets/textures/backgroundImage.jpg");
 }
 
 #mcs-div canvas {
