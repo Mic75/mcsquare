@@ -6,4 +6,4 @@ defaults:
     values:
       layout: "default"
 
-  repository: Mic75/mcsquare
+repository: Mic75/mcsquare
